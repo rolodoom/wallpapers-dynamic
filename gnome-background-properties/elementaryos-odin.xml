@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Elementary OS Odin Background</name>
+    <copyright>Freehive</copyright>
+    <filename>/usr/share/backgrounds/dyn-wallpapers/elementaryos/odin-l.webp</filename>
+    <filename-dark>/usr/share/backgrounds/dyn-wallpapers/elementaryos/odin-d.webp</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
